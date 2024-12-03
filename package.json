@@ -1,8 +1,12 @@
 {
+  "author": "Athma Chidambaravasi",
+  "name": "advent-of-code-2024--rescript",
+  "version": "1.0.0",
   "scripts": {
     "res:build": "rescript",
     "res:dev": "rescript -w"
   },
+  "keywords": ["rescript", "advent of code", "advent", "code", "2024"],
   "dependencies": {
     "@rescript/core": "^1.6.1",
     "rescript": "^11.1.4"
